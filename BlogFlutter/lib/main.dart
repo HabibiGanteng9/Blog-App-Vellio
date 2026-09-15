@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:latihan_rpl_2/addpost.dart';
-import 'package:latihan_rpl_2/editpost.dart';
 import 'package:latihan_rpl_2/homepage.dart';
 import 'package:latihan_rpl_2/loginPage.dart';
-import 'package:latihan_rpl_2/registPage.dart';
 import 'package:latihan_rpl_2/setting.dart';
 import 'package:persistent_bottom_nav_bar_v2/persistent_bottom_nav_bar_v2.dart';
 
